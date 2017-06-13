@@ -33,7 +33,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_below="@id/firstnameInputLayout"
-                android:hint="Employee First Name">
+                android:hint="Employee Last Name">
 
                 <android.support.design.widget.TextInputEditText
                     android:id="@+id/lastnameEditText"
